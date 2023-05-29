@@ -1,0 +1,27 @@
+form{
+   position: relative;
+   left: 500px;
+   padding: 10px 10px;
+   
+   
+
+}
+.inputSearch{
+   
+    position: relative;
+    left: 6px;
+    margin: 5px;
+    padding: 0px 1px;
+    background-color: black;
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+   font-weight: 200;
+}
+.btn:hover{
+    /* background-color: white; */
+    text-decoration: dashed;
+    color: rgb(225, 175, 175);
+    border-radius: 5px;
+
+}
